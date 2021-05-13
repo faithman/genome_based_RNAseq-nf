@@ -1,0 +1,6 @@
+group	replicate	sm	fq1	fq2
+bamtoo_lief	1	bamtoo_lief_1	test_data/test1_1.fq.gz	test_data/test1_2.fq.gz
+bamtoo_lief	2	bamtoo_lief_2	test_data/test2_1.fq.gz	test_data/test2_2.fq.gz
+bamtoo_lief	3	bamtoo_lief_3	test_data/test3_1.fq.gz	test_data/test3_2.fq.gz
+bamtoo_lief	4	bamtoo_lief_4	test_data/test4_1.fq.gz	test_data/test4_2.fq.gz
+bamtoo_lief	5	bamtoo_lief_5	test_data/test5_1.fq.gz	test_data/test5_2.fq.gz

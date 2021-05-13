@@ -1,0 +1,5 @@
+debug*
+pipeline_info
+work
+.nextflow.log*
+.nextflow
